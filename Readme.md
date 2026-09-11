@@ -22,9 +22,8 @@ L'architecture logicielle, les scénarios d'attaques (Red Team), et la matrice d
 ---
 
 ## 🔐 GESTION DES SECRETS (VAULT)
-Les mots de passe d'infrastructure (pfSense, Root Linux, AD, API Wazuh/TheHive) et la configuration ZTNA sont centralisés.
-Un export du coffre-fort d'équipe est fourni à la racine de ce dépôt :
-👉 **Ouvrir le fichier `Honey-V_Vault_Export.html` dans un navigateur.**
+Afin de permettre le déploiement et la prise en main rapide des machines virtuelles par la communauté, l'ensemble des identifiants et accès par défaut (pfSense, Linux, Active Directory, API) sont documentés dans le fichier : Honey-V_Vault_Export.html.
+(⚠️ Ces identifiants sont des accès factices, strictement restreints à cet environnement de simulation).
 
 ---
 
